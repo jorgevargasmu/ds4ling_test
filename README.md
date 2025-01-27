@@ -3,6 +3,9 @@
 - Joseph. I like green. [website](https://www.jvcasillas.com)
 - Nuria. My fav color is also green. [our dept] (https://span-port.rutgers.edu/)
 - Joseph. I like green. [website](https://wwww.jvcasillas.com)
+- Alexander. I like blue. [i don't have a personal website](discord.com)
+- Kaylee. I like blue. [website](https://www.google.com) 
+- Eva. Pink. [website](https://span-port.rutgers.edu/welcome)
 - Jorge. I like red. [website](https://www.https://antoniooyarzun.cl/tienda/?v=4eab0849318c)
 - Yhosep, I like blue. [website](https://www.yhosepbarba.com)
 - Quartz. I like orange. [mylinkohgoditslong](https://sites.google.com/scarletmail.rutgers.edu/quartz-colvin-personal-website/home)
@@ -12,7 +15,11 @@
 - Charles. I like green. [website](https://wwww.charles.com)
 - Jukun. I like blue. [website](https://www.Jukun.com)
 
+<<<<<<< HEAD
 
 
 
 - El pasto es verde
+=======
+WE DID IT!!!
+>>>>>>> fee099f1f6a04b31186a7035723c6dab5a843c4b
